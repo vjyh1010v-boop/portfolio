@@ -36,8 +36,8 @@ export default function App() {
           
           <section style={{ padding: "120px 0 110px", borderBottom: "1px solid #ededea" }}>
             <p data-reveal="" style={{ fontFamily: "'JetBrains Mono',monospace", fontSize: "13px", letterSpacing: "0.08em", color: "#2f63d8", marginBottom: "28px" }}>BACKEND · DATA DEVELOPER</p>
-            <h1 data-reveal="" style={{ fontSize: "76px", lineHeight: "1.04", letterSpacing: "-0.035em", fontWeight: "800", marginBottom: "30px" }}>데이터로 질문을<br />이해하고 답을 만듭니다.</h1>
-            <p data-reveal="" style={{ fontSize: "19px", lineHeight: "1.7", color: "#5a616b", maxWidth: "620px", fontWeight: "400" }}>범죄심리학·법률 실무에서 사람과 사건의 맥락을 읽어온 경험을, 이제 데이터와 코드로 풀어내는 개발자 <b style={{ color: "#15171c", fontWeight: "600" }}>주윤희</b>입니다.</p>
+            <h1 data-reveal="" style={{ fontSize: "76px", lineHeight: "1.04", letterSpacing: "-0.035em", fontWeight: "800", marginBottom: "30px" }}>데이터로 질문을<br />이해하고 답을 찾습니다.</h1>
+            <p data-reveal="" style={{ fontSize: "19px", lineHeight: "1.7", color: "#5a616b", maxWidth: "620px", fontWeight: "400" }}>범죄심리학·법률 실무에서 사람과 사건의 맥락을 찾아온 경험을, 이제 데이터와 코드로 풀어내는 개발자 <b style={{ color: "#15171c", fontWeight: "600" }}>주윤희</b>입니다.</p>
             <div data-reveal="" style={{ display: "flex", gap: "14px", marginTop: "42px" }}>
               <a href="#projects" style={{ fontSize: "15px", fontWeight: "600", color: "#fff", background: "#15171c", padding: "13px 24px", borderRadius: "9px" }}>프로젝트 보기</a>
               <a href="#contact" style={{ fontSize: "15px", fontWeight: "600", color: "#15171c", background: "#fff", border: "1px solid #d9dbd8", padding: "13px 24px", borderRadius: "9px" }}>연락하기</a>
@@ -180,7 +180,7 @@ export default function App() {
                 </div>
                 <div style={{ padding: "26px" }}>
                   <div style={{ display: "flex", alignItems: "center", gap: "8px", marginBottom: "12px" }}><span style={{ fontFamily: "'JetBrains Mono',monospace", fontSize: "11px", color: "#2f63d8" }}>04</span><span style={{ fontFamily: "'JetBrains Mono',monospace", fontSize: "11px", color: "#9aa0a8" }}>DATA</span><span style={{ fontFamily: "'JetBrains Mono',monospace", fontSize: "10.5px", color: "#b1791f", background: "#fbf1dd", padding: "3px 8px", borderRadius: "5px" }}>준비 중</span></div>
-                  <h3 style={{ fontSize: "20px", fontWeight: "700", letterSpacing: "-0.015em", marginBottom: "10px" }}>사건 데이터 분석 대시보드</h3>
+                  <h3 style={{ fontSize: "20px", fontWeight: "700", letterSpacing: "-0.015em", marginBottom: "10px" }}>사건 데이터 분석 대시보드 (추후예정)</h3>
                   <p style={{ fontSize: "14.5px", lineHeight: "1.7", color: "#5a616b", marginBottom: "18px" }}>법무 실무 도메인 지식을 살려 사건 데이터를 분석할 대시보드. 데이터 확보 후 내용을 채워 공개할 예정입니다.</p>
                   <div style={{ display: "flex", flexWrap: "wrap", gap: "7px" }}><span style={{ fontSize: "12px", color: "#3a4250", background: "#f4f5f3", padding: "5px 11px", borderRadius: "6px", fontFamily: "'JetBrains Mono',monospace" }}>Python</span><span style={{ fontSize: "12px", color: "#3a4250", background: "#f4f5f3", padding: "5px 11px", borderRadius: "6px", fontFamily: "'JetBrains Mono',monospace" }}>SQL</span><span style={{ fontSize: "12px", color: "#3a4250", background: "#f4f5f3", padding: "5px 11px", borderRadius: "6px", fontFamily: "'JetBrains Mono',monospace" }}>Pandas</span></div>
                 </div>
@@ -203,7 +203,7 @@ export default function App() {
                   <span style={{ position: "absolute", left: "-43px", top: "4px", width: "14px", height: "14px", borderRadius: "50%", background: "#2f63d8", border: "3px solid #fff", boxShadow: "0 0 0 1px #2f63d8" }}></span>
                   <div style={{ fontFamily: "'JetBrains Mono',monospace", fontSize: "12.5px", color: "#2f63d8", marginBottom: "8px" }}>2026.02 – 현재</div>
                   <h3 style={{ fontSize: "18.5px", fontWeight: "700", marginBottom: "6px" }}>데이터 · 자바 개발자로 전환</h3>
-                  <p style={{ fontSize: "14.5px", lineHeight: "1.75", color: "#5a616b" }}>국립부경대학교의 '빅데이터 기반 자바 개발자' 6개월 취업연계 과정 수강 중(70%+ 진행). Python·SQL 데이터 분석과 Java·Spring Boot·React 등을 활용한 프로젝트를 진행하며 수료 후 취업 예정.</p>
+                  <p style={{ fontSize: "14.5px", lineHeight: "1.75", color: "#5a616b" }}>국립부경대학교의 '빅데이터 기반 자바 개발자' 6개월 취업연계 과정 수료. Python·SQL 데이터 분석과 Java·Spring Boot·React 등을 활용한 프로젝트를 진행하며 수료 후 취업 예정.</p>
                 </div>
       
                 <div style={{ position: "relative" }}>
